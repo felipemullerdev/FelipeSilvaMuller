@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, meu nome é Felipe Müller 👋🏻
 
-<!--
-**FelipeSilvaMuller/FelipeSilvaMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilvaMuller&theme=dracula&showicons=true)
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que utilizo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ☕️ Linguagens mais utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🚀 Estudante de Java com foco em back-end, dedicado à leitura diária de livros técnicos para expandir meu conhecimento e habilidades na programação 📖
+### Sou um desenvolvedor dedicado, sempre buscando aprender mais e aplicar novas tecnologias nos meus projetos.
+
+## 📧 Contato 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+
+
+
