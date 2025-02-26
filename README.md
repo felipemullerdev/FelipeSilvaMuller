@@ -8,7 +8,7 @@
 
 
 ## ☕️ Linguagens mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=donut)](https://github.com/FelipeSilvaMuller/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=compact&title_color=fe6d95&text_color=ffffff&bg_color=282a36)
 
 
 ### 🚀 Estudante de Java com foco em back-end, dedicado à leitura diária de livros técnicos para expandir meu conhecimento e habilidades na programação 📖
