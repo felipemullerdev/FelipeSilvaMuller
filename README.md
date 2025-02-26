@@ -8,7 +8,8 @@
 
 
 ## ☕️ Linguagens mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=donut)](https://github.com/FelipeSilvaMuller/github-readme-stats)
+
 
 ### 🚀 Estudante de Java com foco em back-end, dedicado à leitura diária de livros técnicos para expandir meu conhecimento e habilidades na programação 📖
 ### Sou um desenvolvedor dedicado, sempre buscando aprender mais e aplicar novas tecnologias nos meus projetos.
