@@ -2,13 +2,15 @@
 
 ![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilvaMuller&theme=dracula&showicons=true)
 
+
 ## 💻 Tecnologias que utilizo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## ☕️ Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=compact&title_color=fe6d95&text_color=ffffff&bg_color=282a36)
+[![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=donut-vertical&bg_color=282a36&title_color=fe6d95&text_color=FFFFFF)](https://github.com/FelipeSilvaMuller/github-readme-stats)
+
 
 
 ### 🚀 Estudante de Java com foco em back-end, dedicado à leitura diária de livros técnicos para expandir meu conhecimento e habilidades na programação 📖
