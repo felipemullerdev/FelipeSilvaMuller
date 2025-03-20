@@ -5,7 +5,6 @@
 
 ## 💻 Tecnologias que utilizo
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## Linguagens mais utilizadas
