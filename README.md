@@ -12,7 +12,7 @@
 
 
 
-### 🚀 Estudante de C# com foco em back-end, dedicado à leitura diária de livros técnicos para expandir meu conhecimento e habilidades na programação 📖
+### 🚀 Estudante de C#, dedicado à leitura diária de livros técnicos para expandir meu conhecimento e habilidades na programação 📖
 ### Sou um desenvolvedor dedicado, sempre buscando aprender mais e aplicar novas tecnologias nos meus projetos.
 
 ## 📧 Contato 
