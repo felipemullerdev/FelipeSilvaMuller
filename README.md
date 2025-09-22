@@ -1,6 +1,6 @@
 ## Olá, meu nome é Felipe Müller 👋🏻
 
-![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilvaMuller&theme=dracula&showicons=true)
+![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemullerdev&theme=dracula&showicons=true)
 
 
 ## 💻 Tecnologias que utilizo
@@ -15,7 +15,7 @@
 
 
 ## Linguagens mais utilizadas
-[![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilvaMuller&layout=donut-vertical&bg_color=282a36&title_color=fe6d95&text_color=FFFFFF)](https://github.com/FelipeSilvaMuller/github-readme-stats)
+[![FelipeMüller's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemullerdev&layout=donut-vertical&bg_color=282a36&title_color=fe6d95&text_color=FFFFFF)](https://github.com/FelipeSilvaMuller/github-readme-stats)
 
 
 
