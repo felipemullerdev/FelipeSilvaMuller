@@ -1,13 +1,11 @@
 # Olá, meu nome é Felipe Müller 👋🏻
 
 ## 🚀 Sobre Mim  
-Desenvolvedor Full Stack dedicado a construir projetos inovadores e evoluir constantemente com estudos técnicos e prática em código. Utilizo .NET 8 para desenvolver aplicações robustas e eficientes.
+## Desenvolvedor Full Stack dedicado a construir projetos inovadores e evoluir constantemente com estudos técnicos e prática em código. Utilizo .NET 8 para desenvolver aplicações robustas e eficientes.
 
 ## 💻 Tecnologias que utilizo 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
