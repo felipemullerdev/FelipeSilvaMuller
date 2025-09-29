@@ -3,7 +3,7 @@
 ## 🚀 Sobre Mim  
 ## Desenvolvedor Full Stack dedicado a construir projetos inovadores e evoluir constantemente com estudos técnicos e prática em código. Utilizo .NET 8 para desenvolver aplicações robustas e eficientes.
 
-## 💻 Tecnologias que utilizo 
+## 💻 Linguagens e Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
