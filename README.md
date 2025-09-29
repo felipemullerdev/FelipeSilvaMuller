@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 Linguagens mais utilizadas 
+## 📊 Tecnologias mais utilizadas 
 [![Felipe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemullerdev&layout=donut&theme=dracula&title_color=ff79c6&text_color=ffffff&hide_title=true&hide_border=true&langs_count=6)](https://github.com/felipemullerdev)
 
 ## 📧 Contato 
